@@ -31,3 +31,8 @@
     display: block;
     transition: backround 300ms, color 300ms ;
 }
+
+.header ul a:hover{
+    background: white;
+    color: #D57300;
+}
